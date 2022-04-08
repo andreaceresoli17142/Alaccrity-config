@@ -1,3 +1,13 @@
+# Font:
+font:
+  normal:
+    family: JetBrainsMono NF
+    style: regular
+  bold:
+    style: bold
+  italic:
+    style: italic
+
 # Colors (Material Theme)
 colors:
   # Default colors
